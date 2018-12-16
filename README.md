@@ -15,5 +15,5 @@ Project contains 2 folders:
 2. Test (Tests included : BaseTest, SearchTest)
 
 Run tests:
-To execute tests run command from terminal: mvn test -DSearchTestSuite=search-test.xml
-To execute tests from project open: src\test\java\test\SearchTest and press "Run test"
+1. To execute tests run command from terminal: mvn test -DSearchTestSuite=search-test.xml
+2. To execute tests from project open: src\test\java\test\SearchTest and press "Run test"
